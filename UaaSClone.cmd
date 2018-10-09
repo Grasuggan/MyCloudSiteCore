@@ -1,0 +1,1 @@
+git clone https://dev-clouddeveloper-elena-webmind-se.scm.s1.umbraco.io/25081dc5-d284-49e1-8244-f1c477df62ae.git MyCloudSite.Web
